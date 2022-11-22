@@ -28,3 +28,5 @@ curl_close($ch);
 echo $status_code, "\n";
 
 echo $response, "\n";
+
+//CURL POO install : composer require guzzlehttp/guzzle
